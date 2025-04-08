@@ -1,0 +1,608 @@
+{
+  "matchId": 458821,
+  "header": {
+    "event": {
+      "name": "Champions Tour 2025: Pacific Stage 1 Group Stage:  Week 3",
+      "series": "Group Stage: Week 3",
+      "logo": "https://owcdn.net/img/640f5ae002674.png"
+    },
+    "date": "Monday, April 7th",
+    "time": "1:30 PM IST",
+    "teams": {
+      "team1": {
+        "name": "DRX",
+        "logo": "https://owcdn.net/img/63b17abd77fc0.png",
+        "elo": "1878"
+      },
+      "team2": {
+        "name": "Global Esports",
+        "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+        "elo": "1553"
+      }
+    },
+    "matchStatus": "final",
+    "seriesScore": {
+      "team1": "2",
+      "team2": "0"
+    },
+    "seriesType": "Bo3",
+    "vetoInfo": {
+      "bans": [
+        {
+          "team": "DRX",
+          "map": "Pearl"
+        },
+        {
+          "team": "GE",
+          "map": "Icebox"
+        },
+        {
+          "team": "DRX",
+          "map": "Haven"
+        },
+        {
+          "team": "GE",
+          "map": "Lotus"
+        }
+      ],
+      "picks": [
+        {
+          "team": "DRX",
+          "map": "Ascent"
+        },
+        {
+          "team": "GE",
+          "map": "Split"
+        }
+      ],
+      "remaining": ""
+    }
+  },
+  "overall": {
+    "players": {
+      "DRX": [
+        {
+          "name": "Flashback",
+          "country": "South Korea",
+          "agent": "Yoru",
+          "rating": "1.49",
+          "acs": "241",
+          "kills": "16",
+          "deaths": "7",
+          "assists": "4",
+          "kdDiff": "+9",
+          "kast": "94%",
+          "adr": "0",
+          "hsPercent": "36%",
+          "firstKills": "1",
+          "firstDeaths": "0",
+          "fkDiff": "+1"
+        },
+        {
+          "name": "Estrella",
+          "country": "South Korea",
+          "agent": "Vyse",
+          "rating": "1.37",
+          "acs": "258",
+          "kills": "15",
+          "deaths": "7",
+          "assists": "3",
+          "kdDiff": "+8",
+          "kast": "88%",
+          "adr": "0",
+          "hsPercent": "27%",
+          "firstKills": "4",
+          "firstDeaths": "1",
+          "fkDiff": "+3"
+        },
+        {
+          "name": "MaKo",
+          "country": "South Korea",
+          "agent": "Omen",
+          "rating": "1.21",
+          "acs": "176",
+          "kills": "10",
+          "deaths": "6",
+          "assists": "8",
+          "kdDiff": "+4",
+          "kast": "81%",
+          "adr": "0",
+          "hsPercent": "46%",
+          "firstKills": "2",
+          "firstDeaths": "1",
+          "fkDiff": "+1"
+        },
+        {
+          "name": "HYUNMIN",
+          "country": "South Korea",
+          "agent": "Jett",
+          "rating": "1.10",
+          "acs": "231",
+          "kills": "15",
+          "deaths": "9",
+          "assists": "1",
+          "kdDiff": "+6",
+          "kast": "81%",
+          "adr": "0",
+          "hsPercent": "45%",
+          "firstKills": "3",
+          "firstDeaths": "2",
+          "fkDiff": "+1"
+        },
+        {
+          "name": "free1ng",
+          "country": "South Korea",
+          "agent": "Tejo",
+          "rating": "1.04",
+          "acs": "186",
+          "kills": "10",
+          "deaths": "8",
+          "assists": "5",
+          "kdDiff": "+2",
+          "kast": "81%",
+          "adr": "0",
+          "hsPercent": "47%",
+          "firstKills": "2",
+          "firstDeaths": "0",
+          "fkDiff": "+2"
+        }
+      ],
+      "Global Esports": [
+        {
+          "name": "Kr1stal",
+          "country": "Russia",
+          "agent": "Fade",
+          "rating": "1.21",
+          "acs": "192",
+          "kills": "18",
+          "deaths": "17",
+          "assists": "8",
+          "kdDiff": "+1",
+          "kast": "70%",
+          "adr": "121",
+          "hsPercent": "22%",
+          "firstKills": "2",
+          "firstDeaths": "3",
+          "fkDiff": "-1"
+        },
+        {
+          "name": "UdoTan",
+          "country": "South Korea",
+          "agent": "Cypher",
+          "rating": "1.03",
+          "acs": "191",
+          "kills": "16",
+          "deaths": "18",
+          "assists": "3",
+          "kdDiff": "-2",
+          "kast": "61%",
+          "adr": "112",
+          "hsPercent": "25%",
+          "firstKills": "2",
+          "firstDeaths": "1",
+          "fkDiff": "+1"
+        },
+        {
+          "name": "Papi",
+          "country": "Philippines",
+          "agent": "Astra",
+          "rating": "0.94",
+          "acs": "171",
+          "kills": "15",
+          "deaths": "18",
+          "assists": "6",
+          "kdDiff": "-3",
+          "kast": "70%",
+          "adr": "120",
+          "hsPercent": "25%",
+          "firstKills": "0",
+          "firstDeaths": "4",
+          "fkDiff": "-4"
+        },
+        {
+          "name": "patrickWHO",
+          "country": "Philippines",
+          "agent": "Raze",
+          "rating": "0.79",
+          "acs": "220",
+          "kills": "15",
+          "deaths": "21",
+          "assists": "8",
+          "kdDiff": "-6",
+          "kast": "65%",
+          "adr": "148",
+          "hsPercent": "17%",
+          "firstKills": "1",
+          "firstDeaths": "3",
+          "fkDiff": "-2"
+        },
+        {
+          "name": "kellyS",
+          "country": "Philippines",
+          "agent": "Deadlock",
+          "rating": "0.68",
+          "acs": "159",
+          "kills": "12",
+          "deaths": "19",
+          "assists": "7",
+          "kdDiff": "-7",
+          "kast": "70%",
+          "adr": "105",
+          "hsPercent": "17%",
+          "firstKills": "3",
+          "firstDeaths": "4",
+          "fkDiff": "-1"
+        }
+      ]
+    }
+  },
+  "maps": {
+    "Ascent": {
+      "scores": {
+        "DRX": "13",
+        "Global Esports": "3",
+        "winner": "DRX"
+      },
+      "players": {
+        "DRX": [
+          {
+            "name": "Flashback",
+            "country": "South Korea",
+            "agent": "Yoru",
+            "rating": "1.49",
+            "acs": "241",
+            "kills": "16",
+            "deaths": "7",
+            "assists": "4",
+            "kdDiff": "+9",
+            "kast": "94%",
+            "adr": "0",
+            "hsPercent": "36%",
+            "firstKills": "1",
+            "firstDeaths": "0",
+            "fkDiff": "+1"
+          },
+          {
+            "name": "Estrella",
+            "country": "South Korea",
+            "agent": "Vyse",
+            "rating": "1.37",
+            "acs": "258",
+            "kills": "15",
+            "deaths": "7",
+            "assists": "3",
+            "kdDiff": "+8",
+            "kast": "88%",
+            "adr": "0",
+            "hsPercent": "27%",
+            "firstKills": "4",
+            "firstDeaths": "1",
+            "fkDiff": "+3"
+          },
+          {
+            "name": "MaKo",
+            "country": "South Korea",
+            "agent": "Omen",
+            "rating": "1.21",
+            "acs": "176",
+            "kills": "10",
+            "deaths": "6",
+            "assists": "8",
+            "kdDiff": "+4",
+            "kast": "81%",
+            "adr": "0",
+            "hsPercent": "46%",
+            "firstKills": "2",
+            "firstDeaths": "1",
+            "fkDiff": "+1"
+          },
+          {
+            "name": "HYUNMIN",
+            "country": "South Korea",
+            "agent": "Jett",
+            "rating": "1.10",
+            "acs": "231",
+            "kills": "15",
+            "deaths": "9",
+            "assists": "1",
+            "kdDiff": "+6",
+            "kast": "81%",
+            "adr": "0",
+            "hsPercent": "45%",
+            "firstKills": "3",
+            "firstDeaths": "2",
+            "fkDiff": "+1"
+          },
+          {
+            "name": "free1ng",
+            "country": "South Korea",
+            "agent": "Tejo",
+            "rating": "1.04",
+            "acs": "186",
+            "kills": "10",
+            "deaths": "8",
+            "assists": "5",
+            "kdDiff": "+2",
+            "kast": "81%",
+            "adr": "0",
+            "hsPercent": "47%",
+            "firstKills": "2",
+            "firstDeaths": "0",
+            "fkDiff": "+2"
+          }
+        ],
+        "Global Esports": [
+          {
+            "name": "kellyS",
+            "country": "Philippines",
+            "agent": "Deadlock",
+            "rating": "0.92",
+            "acs": "208",
+            "kills": "11",
+            "deaths": "14",
+            "assists": "3",
+            "kdDiff": "-3",
+            "kast": "69%",
+            "adr": "0",
+            "hsPercent": "32%",
+            "firstKills": "1",
+            "firstDeaths": "1",
+            "fkDiff": "0"
+          },
+          {
+            "name": "UdoTan",
+            "country": "South Korea",
+            "agent": "Cypher",
+            "rating": "0.84",
+            "acs": "158",
+            "kills": "9",
+            "deaths": "12",
+            "assists": "2",
+            "kdDiff": "-3",
+            "kast": "56%",
+            "adr": "0",
+            "hsPercent": "39%",
+            "firstKills": "0",
+            "firstDeaths": "1",
+            "fkDiff": "-1"
+          },
+          {
+            "name": "Kr1stal",
+            "country": "Russia",
+            "agent": "Tejo",
+            "rating": "0.69",
+            "acs": "144",
+            "kills": "6",
+            "deaths": "13",
+            "assists": "3",
+            "kdDiff": "-7",
+            "kast": "63%",
+            "adr": "0",
+            "hsPercent": "21%",
+            "firstKills": "1",
+            "firstDeaths": "4",
+            "fkDiff": "-3"
+          },
+          {
+            "name": "Papi",
+            "country": "Philippines",
+            "agent": "Omen",
+            "rating": "0.67",
+            "acs": "128",
+            "kills": "7",
+            "deaths": "12",
+            "assists": "1",
+            "kdDiff": "-5",
+            "kast": "56%",
+            "adr": "0",
+            "hsPercent": "25%",
+            "firstKills": "0",
+            "firstDeaths": "2",
+            "fkDiff": "-2"
+          },
+          {
+            "name": "patrickWHO",
+            "country": "Philippines",
+            "agent": "Jett",
+            "rating": "0.18",
+            "acs": "80",
+            "kills": "4",
+            "deaths": "15",
+            "assists": "2",
+            "kdDiff": "-11",
+            "kast": "50%",
+            "adr": "0",
+            "hsPercent": "17%",
+            "firstKills": "2",
+            "firstDeaths": "4",
+            "fkDiff": "-2"
+          }
+        ]
+      }
+    },
+    "Split": {
+      "scores": {
+        "DRX": "13",
+        "Global Esports": "10",
+        "winner": "DRX"
+      },
+      "players": {
+        "DRX": [
+          {
+            "name": "Estrella",
+            "country": "South Korea",
+            "agent": "Omen",
+            "rating": "1.33",
+            "acs": "252",
+            "kills": "22",
+            "deaths": "15",
+            "assists": "8",
+            "kdDiff": "+7",
+            "kast": "78%",
+            "adr": "167",
+            "hsPercent": "35%",
+            "firstKills": "2",
+            "firstDeaths": "1",
+            "fkDiff": "+1"
+          },
+          {
+            "name": "Flashback",
+            "country": "South Korea",
+            "agent": "Neon",
+            "rating": "1.25",
+            "acs": "289",
+            "kills": "25",
+            "deaths": "16",
+            "assists": "3",
+            "kdDiff": "+9",
+            "kast": "87%",
+            "adr": "192",
+            "hsPercent": "22%",
+            "firstKills": "6",
+            "firstDeaths": "2",
+            "fkDiff": "+4"
+          },
+          {
+            "name": "free1ng",
+            "country": "South Korea",
+            "agent": "Tejo",
+            "rating": "1.21",
+            "acs": "238",
+            "kills": "20",
+            "deaths": "14",
+            "assists": "4",
+            "kdDiff": "+6",
+            "kast": "96%",
+            "adr": "152",
+            "hsPercent": "22%",
+            "firstKills": "2",
+            "firstDeaths": "0",
+            "fkDiff": "+2"
+          },
+          {
+            "name": "HYUNMIN",
+            "country": "South Korea",
+            "agent": "Raze",
+            "rating": "0.77",
+            "acs": "174",
+            "kills": "15",
+            "deaths": "17",
+            "assists": "2",
+            "kdDiff": "-2",
+            "kast": "78%",
+            "adr": "124",
+            "hsPercent": "27%",
+            "firstKills": "4",
+            "firstDeaths": "0",
+            "fkDiff": "+4"
+          },
+          {
+            "name": "MaKo",
+            "country": "South Korea",
+            "agent": "Viper",
+            "rating": "0.72",
+            "acs": "136",
+            "kills": "11",
+            "deaths": "14",
+            "assists": "7",
+            "kdDiff": "-3",
+            "kast": "78%",
+            "adr": "104",
+            "hsPercent": "20%",
+            "firstKills": "1",
+            "firstDeaths": "5",
+            "fkDiff": "-4"
+          }
+        ],
+        "Global Esports": [
+          {
+            "name": "Kr1stal",
+            "country": "Russia",
+            "agent": "Fade",
+            "rating": "1.21",
+            "acs": "192",
+            "kills": "18",
+            "deaths": "17",
+            "assists": "8",
+            "kdDiff": "+1",
+            "kast": "70%",
+            "adr": "121",
+            "hsPercent": "22%",
+            "firstKills": "2",
+            "firstDeaths": "3",
+            "fkDiff": "-1"
+          },
+          {
+            "name": "UdoTan",
+            "country": "South Korea",
+            "agent": "Cypher",
+            "rating": "1.03",
+            "acs": "191",
+            "kills": "16",
+            "deaths": "18",
+            "assists": "3",
+            "kdDiff": "-2",
+            "kast": "61%",
+            "adr": "112",
+            "hsPercent": "25%",
+            "firstKills": "2",
+            "firstDeaths": "1",
+            "fkDiff": "+1"
+          },
+          {
+            "name": "Papi",
+            "country": "Philippines",
+            "agent": "Astra",
+            "rating": "0.94",
+            "acs": "171",
+            "kills": "15",
+            "deaths": "18",
+            "assists": "6",
+            "kdDiff": "-3",
+            "kast": "70%",
+            "adr": "120",
+            "hsPercent": "25%",
+            "firstKills": "0",
+            "firstDeaths": "4",
+            "fkDiff": "-4"
+          },
+          {
+            "name": "patrickWHO",
+            "country": "Philippines",
+            "agent": "Raze",
+            "rating": "0.79",
+            "acs": "220",
+            "kills": "15",
+            "deaths": "21",
+            "assists": "8",
+            "kdDiff": "-6",
+            "kast": "65%",
+            "adr": "148",
+            "hsPercent": "17%",
+            "firstKills": "1",
+            "firstDeaths": "3",
+            "fkDiff": "-2"
+          },
+          {
+            "name": "kellyS",
+            "country": "Philippines",
+            "agent": "Deadlock",
+            "rating": "0.68",
+            "acs": "159",
+            "kills": "12",
+            "deaths": "19",
+            "assists": "7",
+            "kdDiff": "-7",
+            "kast": "70%",
+            "adr": "105",
+            "hsPercent": "17%",
+            "firstKills": "3",
+            "firstDeaths": "4",
+            "fkDiff": "-1"
+          }
+        ]
+      }
+    }
+  },
+  "timestamp": "2025-04-07T11:52:07.692Z"
+}
